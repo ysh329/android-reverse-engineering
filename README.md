@@ -1,17 +1,7 @@
 # android-reverse-engineering
-android-reverse-engineering
-
-
-# <a id="11a59671b467a8cdbdd4ea9d5e5d9b51"></a>Android
-
-
-***
 
 
 ## <a id="2110ded2aa5637fa933cc674bc33bf21"></a>工具
-
-
-### <a id="63fd2c592145914e99f837cecdc5a67c"></a>新添加的1
 
 
 - [**5948**星][2m] [Java] [google/android-classyshark](https://github.com/google/android-classyshark) 分析基于Android/Java的App或游戏
@@ -27,11 +17,6 @@ android-reverse-engineering
 - [**276**星][8m] [Py] [micropyramid/forex-python](https://github.com/micropyramid/forex-python) Foreign exchange rates, Bitcoin price index and currency conversion using ratesapi.io
 - [**253**星][3m] [Py] [amimo/dcc](https://github.com/amimo/dcc) DCC (Dex-to-C Compiler) is method-based aot compiler that can translate DEX code to C code.
 - [**206**星][2m] [C] [derrekr/fastboot3ds](https://github.com/derrekr/fastboot3ds) A homebrew bootloader for the Nintendo 3DS that is similar to android's fastboot.
-
-
-### <a id="883a4e0dd67c6482d28a7a14228cd942"></a>新添加的
-
-
 
 
 ### <a id="fa49f65b8d3c71b36c6924ce51c2ca0c"></a>HotFix
@@ -145,14 +130,29 @@ android-reverse-engineering
 - [**244**星][7d] [C++] [strazzere/android-scripts](https://github.com/strazzere/android-scripts) Android逆向脚本收集
     - 重复区段: [IDA->插件->Android](#66052f824f5054aa0f70785a2389a478) |
 
+- java-decompiler/jd-core
+https://github.com/java-decompiler/jd-core
 
-
-
-***
-
+java-decompiler/jd-gui: A standalone Java Decompiler GUI
+https://github.com/java-decompiler/jd-gui
 
 ## <a id="f0493b259e1169b5ddd269b13cfd30e6"></a>文章&&视频
 
 
 - 2019.12 [aliyun_xz] [Android智能终端系统的安全加固（上）](https://xz.aliyun.com/t/6852)
 - 2019.11 [venus_seebug] [Android勒索病毒分析（上）](https://paper.seebug.org/1085/)
+
+
+## TODO：尚未分类
+
+- [**1373**星][13d] [C] [dynamorio/drmemory](https://github.com/dynamorio/drmemory) Memory Debugger for Windows, Linux, Mac, and Android
+
+- [**228**星][8d] [JS] [frenchyeti/dexcalibur](https://github.com/frenchyeti/dexcalibur) Dynamic binary instrumentation tool designed for Android application and powered by Frida. It disassembles dex, analyzes it statically, generates hooks, discovers reflected methods, stores intercepted data and does new things from it. Its aim is to be an all-in-one Android reverse engineering platform.
+
+- 2018.12 [pediy_new_digest] [[原创] Frida操作手册-Android环境准备](https://bbs.pediy.com/thread-248293.htm)
+- 2018.11 [4hou] [使用FRIDA为Android应用进行脱壳的操作指南](http://www.4hou.com/technology/14404.html)
+- 2018.11 [pediy_new_digest] [[原创]Frida Bypass Android SSL pinning example 1](https://bbs.pediy.com/thread-247967.htm)
+
+- [**2787**星][17d] [Py] [androguard/androguard](https://github.com/androguard/androguard) Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)
+
+- [**244**星][7d] [C++] [strazzere/android-scripts](https://github.com/strazzere/android-scripts) Android逆向脚本收集
