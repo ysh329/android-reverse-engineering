@@ -145,6 +145,10 @@ https://github.com/java-decompiler/jd-gui
 
 ## TODO：尚未分类
 
+- lxdvs/apk2gold: CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
+https://github.com/lxdvs/apk2gold
+
+
 - [**1373**星][13d] [C] [dynamorio/drmemory](https://github.com/dynamorio/drmemory) Memory Debugger for Windows, Linux, Mac, and Android
 
 - [**228**星][8d] [JS] [frenchyeti/dexcalibur](https://github.com/frenchyeti/dexcalibur) Dynamic binary instrumentation tool designed for Android application and powered by Frida. It disassembles dex, analyzes it statically, generates hooks, discovers reflected methods, stores intercepted data and does new things from it. Its aim is to be an all-in-one Android reverse engineering platform.
